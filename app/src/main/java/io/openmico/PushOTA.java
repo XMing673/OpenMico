@@ -27,7 +27,7 @@ import java.net.URLEncoder;
 
 public class PushOTA extends AppCompatActivity {
 
-    static String API = "https://api.mina.mi.com/remote/ota/v2";
+    static String API = "https://api2.mina.mi.com/remote/ota/v2";
     static String deviceSN = "";
     static String deviceID = "";
     static String api_cookie = "";
